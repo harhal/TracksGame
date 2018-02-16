@@ -1586,117 +1586,117 @@
 "../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 1586
 "C:/Users/harhal/AppData/Local/UnrealEngine/4.18/Saved/Config/Windows/SourceControlSettings.ini" 1587
 "../../../../../Documents/Unreal Projects/TestTask/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 1588
-"../../../../../Documents/Unreal Projects/TestTask/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini" 1589
-"../../../../../Documents/Unreal Projects/TestTask/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini" 1590
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 1591
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 1592
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 1593
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 1594
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 1595
-"../../../Engine/Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 1596
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 1597
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 1598
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 1599
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 1600
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 1601
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 1602
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 1603
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 1604
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 1605
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 1606
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 1607
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 1608
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 1609
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 1610
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1611
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 1612
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 1613
-"../../../../../Documents/Unreal Projects/TestTask/Intermediate/AssetRegistryCache/311563bb.bin" 1614
-"../../../../../Documents/Unreal Projects/TestTask/Content/Maps/MainMap.umap" 1615
-"../../../../../Documents/Unreal Projects/TestTask/Content/Maps/MainMap_BuiltData.uasset" 1616
-"../../../../../Documents/Unreal Projects/TestTask/Content/Maps/TestLevel.umap" 1617
+"D:/Documents/Unreal Projects/TestTask/Saved/Config/Windows/SourceControlSettings.ini" 1589
+"../../../../../Documents/Unreal Projects/TestTask/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini" 1590
+"../../../../../Documents/Unreal Projects/TestTask/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini" 1591
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 1592
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 1593
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 1594
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 1595
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 1596
+"../../../Engine/Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 1597
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 1598
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 1599
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 1600
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 1601
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 1602
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 1603
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 1604
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 1605
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 1606
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 1607
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 1608
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 1609
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 1610
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 1611
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1612
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 1613
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 1614
+"../../../../../Documents/Unreal Projects/TestTask/Intermediate/AssetRegistryCache/311563bb.bin" 1615
+"../../../../../Documents/Unreal Projects/TestTask/Content/Maps/MainMap.umap" 1616
+"../../../../../Documents/Unreal Projects/TestTask/Content/Maps/MainMap_BuiltData.uasset" 1617
 "../../../../../Documents/Unreal Projects/TestTask/Intermediate/AssetRegistryCache/c90e3f55.bin" 1618
-"../../../../../Documents/Unreal Projects/TestTask/Content/Blueprints/Actors/Route.uasset" 1619
-"../../../../../Documents/Unreal Projects/TestTask/Content/Blueprints/Controllers/VehicleDriver.uasset" 1620
-"../../../../../Documents/Unreal Projects/TestTask/Content/UI/BilboardText.uasset" 1621
-"../../../../../Documents/Unreal Projects/TestTask/Config/DefaultEngine.ini" 1622
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1623
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1624
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1625
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1626
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1627
-"../../../Engine/Content/BasicShapes/Cone.uasset" 1628
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1629
-"../../../../../Documents/Unreal Projects/TestTask/Intermediate/AssetRegistryCache/30e49709.bin" 1630
-"../../../Engine/Config/HTML5/HTML5Engine.ini" 1631
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1632
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 1633
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1634
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1635
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1636
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 1637
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 1638
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 1639
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 1640
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 1641
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 1642
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 1643
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1644
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1645
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1646
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 1647
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1648
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1649
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 1650
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 1651
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 1652
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1653
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1654
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1655
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1656
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1657
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1658
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1659
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1660
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1661
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1662
-"../../../../../Documents/Unreal Projects/TestTask/Content/Blueprints/Rules/MainGI.uasset" 1663
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1664
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1665
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1666
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1667
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 1668
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 1669
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1670
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1671
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1672
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1673
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1674
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1675
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1676
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1677
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1678
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1679
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1680
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1681
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1682
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1683
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1684
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1685
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1686
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1687
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1688
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1689
-"../../../../../Documents/Unreal Projects/TestTask/Content/UI/PauseWidget.uasset" 1690
-"../../../../../Documents/Unreal Projects/TestTask/Content/UI/MainMenuUI.uasset" 1691
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1692
-"../../../../../Documents/Unreal Projects/TestTask/Content/UI/EndGameUI.uasset" 1693
-"../../../../../Documents/Unreal Projects/TestTask/Content/Blueprints/Rules/MainGM.uasset" 1694
-"../../../../../Documents/Unreal Projects/TestTask/Content/Blueprints/Actors/Player.uasset" 1695
-"../../../../../Documents/Unreal Projects/TestTask/Content/Blueprints/Actors/Ground.uasset" 1696
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1697
-"../../../../../Documents/Unreal Projects/TestTask/Content/Materials/TargetSphereMat_Inst.uasset" 1698
-"../../../../../Documents/Unreal Projects/TestTask/Content/Materials/TargetSphereMat.uasset" 1699
+"../../../../../Documents/Unreal Projects/TestTask/Content/Blueprints/Controllers/VehicleDriver.uasset" 1619
+"../../../../../Documents/Unreal Projects/TestTask/Config/DefaultEngine.ini" 1620
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1621
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1622
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1623
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1624
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1625
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1626
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1627
+"../../../../../Documents/Unreal Projects/TestTask/Intermediate/AssetRegistryCache/30e49709.bin" 1628
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 1629
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1630
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 1631
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1632
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1633
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1634
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 1635
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 1636
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 1637
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 1638
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 1639
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 1640
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 1641
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1642
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1643
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1644
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 1645
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1646
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1647
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 1648
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 1649
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 1650
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1651
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1652
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1653
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1654
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1655
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1656
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1657
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1658
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1659
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1660
+"../../../../../Documents/Unreal Projects/TestTask/Content/Blueprints/Rules/MainGI.uasset" 1661
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1662
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1663
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1664
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1665
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 1666
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 1667
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1668
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1669
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1670
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1671
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1672
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1673
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1674
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1675
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1676
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1677
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1678
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1679
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1680
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1681
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1682
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1683
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1684
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1685
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1686
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1687
+"../../../../../Documents/Unreal Projects/TestTask/Content/UI/PauseWidget.uasset" 1688
+"../../../../../Documents/Unreal Projects/TestTask/Content/UI/MainMenuUI.uasset" 1689
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1690
+"../../../../../Documents/Unreal Projects/TestTask/Content/UI/EndGameUI.uasset" 1691
+"../../../../../Documents/Unreal Projects/TestTask/Content/Blueprints/Rules/MainGM.uasset" 1692
+"../../../../../Documents/Unreal Projects/TestTask/Content/Blueprints/Actors/Player.uasset" 1693
+"../../../../../Documents/Unreal Projects/TestTask/Content/Blueprints/Actors/Ground.uasset" 1694
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1695
+"../../../../../Documents/Unreal Projects/TestTask/Content/Blueprints/Actors/Route.uasset" 1696
+"../../../../../Documents/Unreal Projects/TestTask/Content/Materials/TargetSphereMat_Inst.uasset" 1697
+"../../../../../Documents/Unreal Projects/TestTask/Content/Materials/TargetSphereMat.uasset" 1698
+"../../../../../Documents/Unreal Projects/TestTask/Content/UI/BilboardText.uasset" 1699
 "../../../../../Documents/Unreal Projects/TestTask/Content/Blueprints/Actors/Track/VehicleTrack.uasset" 1700
 "../../../../../Documents/Unreal Projects/TestTask/Content/Mesh/Track_TrackBody_Skeleton_AnimBlueprint.uasset" 1701
 "../../../../../Documents/Unreal Projects/TestTask/Content/Mesh/Track_TrackBody_Skeleton.uasset" 1702
